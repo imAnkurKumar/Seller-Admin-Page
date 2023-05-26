@@ -1,0 +1,18 @@
+body {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ min-height: 100vh;
+ background-color: #373737;
+}
+
+.container {
+ background-color: #636a6cf5;
+ padding: 20px;
+ border-radius: 5px;
+ box-shadow: 0px 0px 10px rgb(58, 37, 37);
+}
+
+.center-heading {
+ text-align: center;
+}
